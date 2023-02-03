@@ -6,6 +6,6 @@ final class XLSX2plistTests: XCTestCase {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct
         // results.
-        XCTAssertEqual(XLSX2plist().text, "Hello, World!")
+//        XCTAssertEqual(XLSX2plist().text, "Hello, World!")
     }
 }

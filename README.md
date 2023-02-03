@@ -1,3 +1,3 @@
 # XLSX2plist
 
-A description of this package.
+Convert Excel(xlsx) to Plist.
